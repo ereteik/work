@@ -1,0 +1,7 @@
+C:\Users\ereteik\source\repos\Test_homework\Test_homework\bin\Debug\Test_homework.exe.config
+C:\Users\ereteik\source\repos\Test_homework\Test_homework\bin\Debug\Test_homework.exe
+C:\Users\ereteik\source\repos\Test_homework\Test_homework\bin\Debug\Test_homework.pdb
+C:\Users\ereteik\source\repos\Test_homework\Test_homework\obj\Debug\Test_homework.csprojAssemblyReference.cache
+C:\Users\ereteik\source\repos\Test_homework\Test_homework\obj\Debug\Test_homework.csproj.CoreCompileInputs.cache
+C:\Users\ereteik\source\repos\Test_homework\Test_homework\obj\Debug\Test_homework.exe
+C:\Users\ereteik\source\repos\Test_homework\Test_homework\obj\Debug\Test_homework.pdb
